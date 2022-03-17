@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Hooks, Context API, Redux**
 
-- 💬 Ask me about **JavaScript, React, Redux**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 💞️ I’m looking to collaborate on projects to increase my skills and help others.
 
