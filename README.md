@@ -6,7 +6,7 @@
 
 - 👀 I'm interested in improving my knowledge and skills as a developer.
 
-- 🔭 I’m currently working on **Trivia game project**
+- 🔭 I’m currently working on **Recipe App**
 
 - 🌱 I’m currently learning **Hooks, Context API, Redux**
 
