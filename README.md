@@ -6,11 +6,11 @@
 
 - 👀 I'm interested in improving my knowledge and skills as a developer.
 
-- 🔭 I’m currently working on **Docker Todo List**
+- 🔭 I’m currently working on **All for one project (MySQL)**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **MySQL**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Docker**
 
 - 💞️ I’m looking to collaborate on projects to increase my skills and help others.
 
@@ -30,6 +30,7 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://testing-library.com/" target="_blank"><img src="https://testing-library.com/img/logo-large.png" alt="testing-library" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://www.mysql.com//" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
