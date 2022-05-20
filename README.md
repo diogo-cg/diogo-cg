@@ -6,11 +6,11 @@
 
 - 👀 I'm interested in improving my knowledge and skills as a developer.
 
-- 🔭 I’m currently working on **All for one project (MySQL)**
+- 🔭 I’m currently working on **Talker Manager**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **Node.js and API's**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Docker**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Docker, MySQL**
 
 - 💞️ I’m looking to collaborate on projects to increase my skills and help others.
 
