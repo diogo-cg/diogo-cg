@@ -6,7 +6,7 @@
 
 - 👀 I'm interested in improving my knowledge and skills as a developer.
 
-- 🔭 I’m currently working on **Talker Manager**
+- 🔭 I’m currently working on **Talker Manager project**
 
 - 🌱 I’m currently learning **Node.js and API's**
 
