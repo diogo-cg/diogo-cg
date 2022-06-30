@@ -6,9 +6,9 @@
 
 - 👀 I'm interested in improving my knowledge and skills as a developer.
 
-- 🔭 I’m currently working on **Talker Manager project**
+- 🔭 I’m currently working on **Blogs API**
 
-- 🌱 I’m currently learning **Node.js and API's**
+- 🌱 I’m currently learning **Sequelize and Heroku**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Docker, MySQL**
 
