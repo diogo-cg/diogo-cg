@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diogo Carvalho Gouveia</h1>
 
-<h3 align="center">Brazilian front end developer</h3>
+<h3 align="center">Brazilian full stack web developer</h3>
 
 <img align="right" alt="my workspace" width="300px" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 
