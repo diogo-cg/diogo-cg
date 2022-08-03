@@ -6,9 +6,9 @@
 
 - 👀 I'm interested in improving my knowledge and skills as a developer.
 
-- 🔭 I’m currently working on **TrybeSmith Project**
+- 🔭 I’m currently working on **Trybe Futebol Clube**
 
-- 🌱 I’m currently learning **TypeScript (P.O.O)**
+- 🌱 I’m currently learning **TypeScript with sequelize**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Docker, MySQL, NODEjs, TypeScript**
 
