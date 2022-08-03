@@ -6,7 +6,7 @@
 
 - 👀 I'm interested in improving my knowledge and skills as a developer.
 
-- 🔭 I’m currently working on **Trybe Futebol Clube**
+- 🔭 I’m currently working on **Trybe Futebol Clube Project**
 
 - 🌱 I’m currently learning **TypeScript with sequelize**
 
