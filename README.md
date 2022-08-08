@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Trybe Futebol Clube Project**
 
-- 🌱 I’m currently learning **TypeScript with sequelize**
+- 🌱 I’m currently learning **MongoDB**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Docker, MySQL, NODEjs, TypeScript**
 
@@ -33,6 +33,8 @@
 <a href="https://www.mysql.com//" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/></a>
+</p>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
