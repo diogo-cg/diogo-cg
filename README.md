@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Phyton**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Docker, MySQL, NODEjs, TypeScript.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Docker, MySQL, NODEjs, TypeScript, MongoDB**
 
 - 💞️ I’m looking to collaborate on projects to increase my skills and help others.
 
