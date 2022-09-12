@@ -6,9 +6,9 @@
 
 - 👀 I'm interested in improving my knowledge and skills as a developer.
 
-- 🔭 I’m currently working on **Trybe Futebol Clube Project**
+- 🔭 I’m currently working on **Delivery App**
 
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **Phyton**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Docker, MySQL, NODEjs, TypeScript.**
 
